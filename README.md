@@ -1,5 +1,3 @@
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/28843e7c-96a1-4439-8cf5-c407b8ecf336" /># My macOS Configuration
-
 This repository contains my personal configuration files for macOS, aimed at creating a productive and efficient development environment. It includes configurations for window management, hotkeys, status bar customization, text editing, and system information display.
 
 <img width="1680" alt="image" src="https://github.com/user-attachments/assets/8a7c6764-9845-46ee-a3ac-75d7ca114e2a" />
